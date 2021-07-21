@@ -1,0 +1,18 @@
+
+  
+  .t{
+    padding-bottom: 10px;
+  }
+  .title { 
+    font-weight: bold; 
+    color: #f1efef;
+  }
+  .content {
+    padding-top: 100px;
+    font-family: 'Helvetica Neue';
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
